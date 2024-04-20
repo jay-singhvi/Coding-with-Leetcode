@@ -13,3 +13,6 @@ class Solution:
 
 
 Solution().removeElement([0, 1, 2, 2, 3, 0, 4, 2], 2)  # 5
+
+# Time Complexity: O(N)
+# Space Complexity: O(1)
