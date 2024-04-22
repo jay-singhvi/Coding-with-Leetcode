@@ -1,6 +1,6 @@
 """
     169. Majority Element
-    https://leetcode.com/problems/majority-element/description/
+    https://leetcode.com/problems/majority-element/
 """
 
 
