@@ -3,9 +3,7 @@
     https://leetcode.com/problems/not-boring-movies/
 """
 
-
 import pandas as pd
-
 
 def not_boring_movies(cinema: pd.DataFrame) -> pd.DataFrame:
     return cinema[
