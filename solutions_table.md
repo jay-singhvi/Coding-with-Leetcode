@@ -1,11 +1,3 @@
-# Learning-to-code-with-Leetcode
-
-Learning how to solve leetcode problems and preparing for interview questions
-
-You can view the solution code directly by clicking on the link but I will always suggest that you first try to solve the problem on your own for atleast 20-30 mins only then looking at a solution.
-
-This repository contains my solutions to leetcode problems. Here's a list of problems and solutions:
-<!-- START_SOLUTIONS_TABLE -->
 # Solutions
 
 | Sr. No. | Type | Difficulty | File Name |
@@ -51,5 +43,3 @@ This repository contains my solutions to leetcode problems. Here's a list of pro
 | 1683 | Python | Easy | [Invalid-Tweets.py](Solutions\Easy-1683-Invalid-Tweets.py) |
 | 1683 | SQL | Easy | [Invalid-Tweets.sql](Solutions\Easy-1683-Invalid-Tweets.sql) |
 | 1757 | SQL | Easy | [Recyclable-and-Low-Fat-Products.sql](Solutions\Easy-1757-Recyclable-and-Low-Fat-Products.sql) |
-
-<!-- END_SOLUTIONS_TABLE -->
